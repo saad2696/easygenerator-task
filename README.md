@@ -30,34 +30,5 @@ The goal of this task is to implement a user authentication module for a web app
 3. **Application Page**
    - **Content**: Display a welcome message: `"Welcome to the application."`
 
----
-
-## Back-end Development
-
-### Technical Stack
-
-- **Framework**: NestJS
-- **Database**: MongoDB
-- **Additional Libraries**: Choose appropriate ORM and libraries as needed
-
-### API Endpoints
-
-- **Sign-Up**: Endpoint to register a new user with email, name, and password.
-- **Sign-In**: Endpoint to authenticate users with email and password.
-
-### Notes
-
-- Ensure API endpoints adhere to the front-end requirements.
-- **Nice to Haves**:
-  - Use TypeScript for type safety.
-  - Add logging to the back end.
-  - Follow security best practices.
 
 ---
-
-## Getting Started
-
-1. **Clone the Repository**:
-   ```bash
-   git clone <repository-url>
-   cd <repository-directory>
